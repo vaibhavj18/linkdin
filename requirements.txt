@@ -33,3 +33,4 @@ urllib3==1.26.14
 webdriver-manager==3.8.5
 Werkzeug==2.2.3
 wsproto==1.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
